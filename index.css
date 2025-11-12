@@ -15,7 +15,7 @@
     position: relative;
     width: 1920px;
     height: 1295px;
-    background-image: url(/img/cakeswallp.png);
+    background-image: url(./img/cakeswallp.png);
     background-repeat: no-repeat;
     background-position: left center;
     background-size: contain;
@@ -1214,4 +1214,5 @@
 .body_style .f_secondsection_card8_cst,
 .body_style .f_secondsection_card9_cst {
     color: white;
+
 }
